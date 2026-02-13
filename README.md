@@ -172,4 +172,6 @@ firebase deploy
 * Real-time heatmap intelligence
 * Centralized command dashboard
 
-reademe file
+---
+
+## 💡 Some Glimpses Of SafeTravel
