@@ -175,3 +175,5 @@ firebase deploy
 ---
 
 ## 💡 Some Glimpses Of SafeTravel
+<img width="1919" height="290" alt="11" src="https://github.com/user-attachments/assets/9cc50dc8-5cf1-45c8-a15c-89fb6de97afe" />
+
